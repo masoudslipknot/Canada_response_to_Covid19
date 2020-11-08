@@ -1,4 +1,4 @@
-# Canada_response_to_Cvoid19
+# Canada_response_to_Covid19
 In this project, I focus on collecting tweets from March until now to see people's opinions toward Canada's management of Covid19. <br>
 At first, we collect tweets for each month separately with the following keywords: "Canada", "Management", "Covid". Also, we save different information about each account that tweeted such as follower counts, friends counts, when the account was created, etc. <br>
 The reason for saving this extra information is to ignore tweets from fake accounts who were created just before the tweet with 0 follower counts to provide fair results based on people's opinions toward Canada management during the whole period in each month. <br>
